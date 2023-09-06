@@ -1,0 +1,746 @@
+[
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "act.gotevot.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Abha",
+        "web_pages": [
+            "http://www.act.gotevot.edu.sa/"
+        ],
+        "name": "College of Technology at Abha"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "alfaisal.edu"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.alfaisal.edu/"
+        ],
+        "name": "Alfaisal University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "almaarifah.com"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.almaarifah.com/"
+        ],
+        "name": "Knowledge International University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "alyamamah.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.alyamamah.edu.sa/"
+        ],
+        "name": "Al-Yamamah College"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "arabou.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.arabou.edu.sa/"
+        ],
+        "name": "Arab Open University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "bmc.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Jeddah",
+        "web_pages": [
+            "http://www.bmc.edu.sa/"
+        ],
+        "name": "Batterjee Medical College"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "bpc.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Buraidah",
+        "web_pages": [
+            "http://www.bpc.edu.sa/"
+        ],
+        "name": "Buraydah College for Applied Medical Sciences"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "bu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Abha",
+        "web_pages": [
+            "http://www.bu.edu.sa/"
+        ],
+        "name": "Al-baha University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "cba.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Jeddah",
+        "web_pages": [
+            "http://www.cba.edu.sa/"
+        ],
+        "name": "College of Busniess Admnistration"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "cti.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.cti.edu.sa/"
+        ],
+        "name": "College of Telecommunication & Information"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "dah.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Jeddah",
+        "web_pages": [
+            "http://www.dah.edu.sa"
+        ],
+        "name": "Dar al Hekma College"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "dau.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.dau.edu.sa/"
+        ],
+        "name": "Dar Al-Uloom Colleges"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "dcc.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Dammam",
+        "web_pages": [
+            "http://www.dcc.edu.sa/"
+        ],
+        "name": "Dammam Community College"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "dct.gotevot.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Dammam",
+        "web_pages": [
+            "http://www.dct.gotevot.edu.sa/"
+        ],
+        "name": "College of Technology at Dammam"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "effatcollege.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Jeddah",
+        "web_pages": [
+            "http://www.effatcollege.edu.sa/"
+        ],
+        "name": "Effat College"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "fbsc.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Tabuk",
+        "web_pages": [
+            "http://www.fbsc.edu.sa/"
+        ],
+        "name": "Fahad Bin Sultan University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "ibnsina.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Jeddah ",
+        "web_pages": [
+            "http://www.ibnsina.edu.sa/"
+        ],
+        "name": "Ibn Sina National College for Medical Studies"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "imamu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.imamu.edu.sa/"
+        ],
+        "name": "Al-Imam Mohamed Ibn Saud Islamic University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "ipa.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Dammam",
+        "web_pages": [
+            "http://www.ipa.edu.sa/"
+        ],
+        "name": "Institute of Public Administration"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "iu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Medinah",
+        "web_pages": [
+            "http://www.iu.edu.sa/"
+        ],
+        "name": "Islamic University of Medinah"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "jazanu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Jazan",
+        "web_pages": [
+            "http://www.jazanu.edu.sa/"
+        ],
+        "name": "Jazan University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "jct.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Jeddah",
+        "web_pages": [
+            "http://www.jct.edu.sa/"
+        ],
+        "name": "College of Technology at Jeddah"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "jic.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Jubail",
+        "web_pages": [
+            "http://www.jic.edu.sa/"
+        ],
+        "name": "Jubail Industrial College"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "ju.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Aljouf",
+        "web_pages": [
+            "http://www.ju.edu.sa/"
+        ],
+        "name": "Aljouf University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "kau.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Jeddah",
+        "web_pages": [
+            "http://www.kau.edu.sa/"
+        ],
+        "name": "King Abdul Aziz University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "kaust.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Aljouf",
+        "web_pages": [
+            "http://www.kaust.edu.sa/"
+        ],
+        "name": "King Abdullah University of Science and Technology"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "kct.gotevot.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Al-Kharj",
+        "web_pages": [
+            "http://kct.gotevot.edu.sa/"
+        ],
+        "name": "College of Technology at Kharj"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "kfsc.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.kfsc.edu.sa/"
+        ],
+        "name": "King Fahd Security College"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "kfu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Al-Ahsa",
+        "web_pages": [
+            "http://www.kfu.edu.sa/"
+        ],
+        "name": "King Faisal University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "kfupm.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Dhahran",
+        "web_pages": [
+            "http://www.kfupm.edu.sa/"
+        ],
+        "name": "King Fahad University of Petroleum and Minerals"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "kku.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Abha",
+        "web_pages": [
+            "http://www.kku.edu.sa/"
+        ],
+        "name": "King Khaled University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "ksau-hs.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.ksau-hs.edu.sa/"
+        ],
+        "name": "King Saud bin Abdulaziz University for Health Sciences"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "ksu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.ksu.edu.sa/"
+        ],
+        "name": "King Saud University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "ku.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Al-kharj",
+        "web_pages": [
+            "http://www.ku.edu.sa/"
+        ],
+        "name": "Alkharj University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "mcst.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.mcst.edu.sa/"
+        ],
+        "name": "Knowledge College for Science and Technology"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "mu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Al Majma'ah",
+        "web_pages": [
+            "http://www.mu.edu.sa/"
+        ],
+        "name": "Majmaah University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "nauss.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.nauss.edu.sa/"
+        ],
+        "name": "Naif Arab University for Security Sciences"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "nbu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Arar",
+        "web_pages": [
+            "http://www.nbu.edu.sa/"
+        ],
+        "name": "Northern Border University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "ngha.med.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.ngha.med.sa/"
+        ],
+        "name": "College of Nursing and Allied Health Scinces"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "nu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Najran",
+        "web_pages": [
+            "http://www.nu.edu.sa/"
+        ],
+        "name": "Najran University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "pcdp.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.pcdp.edu.sa/"
+        ],
+        "name": "Private College of Dentistry and Pharmacy"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "pmu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Khobar",
+        "web_pages": [
+            "http://www.pmu.edu.sa/"
+        ],
+        "name": "Prince Mohammad Bin Fahd University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "pscabha.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": null,
+        "web_pages": [
+            "http://www.pscabha.edu.sa/"
+        ],
+        "name": "Prince Sultan College for Tourism and Hotel Scinces"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "psu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.psu.edu.sa/"
+        ],
+        "name": "Prince Sultan University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "qc.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Qassim",
+        "web_pages": [
+            "http://www.qc.edu.sa/"
+        ],
+        "name": "Qassim Private College"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "qu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Qassim",
+        "web_pages": [
+            "http://www.qu.edu.sa/"
+        ],
+        "name": "Qassim University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "rct.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.rct.edu.sa/"
+        ],
+        "name": "College of Technology at Riyadh"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "riyadh.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.riyadh.edu.sa/"
+        ],
+        "name": "Riyadh College of Dentistry and Pharmacy"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "rug.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Riyadh",
+        "web_pages": [
+            "http://www.rug.edu.sa/"
+        ],
+        "name": "Princess Nora Bint Abdulrahman University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "saadcollege.com"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": " Al-Khobar",
+        "web_pages": [
+            "http://www.saadcollege.com/"
+        ],
+        "name": "Saad College of Nursing and Allied Health Sciences"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "su.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Shaqra",
+        "web_pages": [
+            "http://www.su.edu.sa/"
+        ],
+        "name": "Shaqra University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "taibahu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Medina",
+        "web_pages": [
+            "http://www.taibahu.edu.sa/"
+        ],
+        "name": "Taibah University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "tnmeyah.net"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Jazan",
+        "web_pages": [
+            "http://www.tnmeyah.net/jct/"
+        ],
+        "name": "College of Technology at Jazan"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "tu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Taif",
+        "web_pages": [
+            "http://www.tu.edu.sa/"
+        ],
+        "name": "Taif University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "ucj.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Jubail",
+        "web_pages": [
+            "http://www.ucj.edu.sa/"
+        ],
+        "name": "Jubail University College"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "ud.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Dammam",
+        "web_pages": [
+            "http://www.ud.edu.sa/"
+        ],
+        "name": "University of Dammam"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "uoh.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Hail",
+        "web_pages": [
+            "http://www.uoh.edu.sa/"
+        ],
+        "name": "University of Hail"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "uqu.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Mecca",
+        "web_pages": [
+            "http://www.uqu.edu.sa/"
+        ],
+        "name": "Umm Al-Qura University"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "ut.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Tabuk",
+        "web_pages": [
+            "http://www.ut.edu.sa/"
+        ],
+        "name": "University of Tabuk"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "yic.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Yanbu",
+        "web_pages": [
+            "http://www.yic.edu.sa/"
+        ],
+        "name": "Yanbu Industrial College"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "yti.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Yanbu",
+        "web_pages": [
+            "http://www.yti.edu.sa/"
+        ],
+        "name": "Yanbu Technical Institute"
+    },
+    {
+        "country": "Saudi Arabia",
+        "domains": [
+            "yuc.edu.sa"
+        ],
+        "alpha_two_code": "SA",
+        "state-province": "Yanbu",
+        "web_pages": [
+            "http://www.yuc.edu.sa/"
+        ],
+        "name": "Yanbu University College"
+    }
+]
